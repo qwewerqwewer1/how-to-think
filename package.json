@@ -1,0 +1,22 @@
+{
+  "name": "how-to-think",
+  "version": "1.0.0",
+  "description": "Просто учимся думать!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwewerqwewer1/how-to-think.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwewerqwewer1/how-to-think/issues"
+  },
+  "homepage": "https://github.com/qwewerqwewer1/how-to-think#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
